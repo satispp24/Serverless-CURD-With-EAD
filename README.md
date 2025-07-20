@@ -60,7 +60,7 @@ The architecture consists of the following key components:
 
 ```bash
 # Clone the repository
-git clone https://github.com/satispp24/SERVERLESS-CURD-With-EDA.git
+git clone https://github.com/satispp24/Serverless-CURD-With-EAD.git
 cd terraform-crud-app
 
 # Initialize Terraform
